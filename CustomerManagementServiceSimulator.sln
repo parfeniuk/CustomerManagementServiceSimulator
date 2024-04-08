@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5A6832FE-B433-484B-A8D0-146431B1BDA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerManagementServiceSimulator.WebAPI", "src\CustomerManagementServiceSimulator.WebAPI\CustomerManagementServiceSimulator.WebAPI.csproj", "{D462F9B0-57D0-4546-A31D-24BAE7476D34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D462F9B0-57D0-4546-A31D-24BAE7476D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D462F9B0-57D0-4546-A31D-24BAE7476D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D462F9B0-57D0-4546-A31D-24BAE7476D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D462F9B0-57D0-4546-A31D-24BAE7476D34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D462F9B0-57D0-4546-A31D-24BAE7476D34} = {5A6832FE-B433-484B-A8D0-146431B1BDA3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35C88D65-87A8-43DB-8483-A963FEF6885B}
+	EndGlobalSection
+EndGlobal
